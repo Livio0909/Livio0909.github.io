@@ -1,0 +1,613 @@
+{
+    "err": 0,
+    "msg": "Success",
+    "data": [
+        {
+            "genre": {
+                "id": "IWZ9Z08I",
+                "name": "Việt Nam",
+                "alias": "viet-nam",
+                "link": "/the-loai-nghe-si/Viet-Nam/IWZ9Z08I.html"
+            },
+            "items": [
+                {
+                    "id": "IWZFFOWB",
+                    "name": "K-ICM",
+                    "link": "/nghe-si/K-ICM",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/8/6/f/1/86f124c833b3549c9af60787a09d7c9c.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/e/e/e/eeee188a74736ed2423d4231b6b41424.jpg",
+                    "spotlight": false,
+                    "follow": 180607,
+                    "playlistId": "Z6BOFUD7",
+                    "oa_link": "/kicm",
+                    "followed": false
+                },
+                {
+                    "id": "IW6WCI7U",
+                    "name": "Jack",
+                    "link": "/nghe-si/Trinh-Tran-Phuong-Tuan",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/2/c/0/0/2c007482930d267b813e0d29879a10f4.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/1/5/c/515c86b8f10cd8e44fa77f195d0c286f.jpg",
+                    "spotlight": false,
+                    "follow": 483173,
+                    "playlistId": "Z6BOFZEC",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9B08F",
+                    "name": "Lê Bảo Bình",
+                    "link": "/nghe-si/Le-Bao-Binh",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/4/2/3/b/423b6fb7903ecd2ffc090e58d789830c.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/7/a53786e6d5671c6a87c29ab79d5c0251.jpg",
+                    "spotlight": false,
+                    "follow": 219034,
+                    "playlistId": "Z6BOD7I0",
+                    "oa_link": "/lebaobinh",
+                    "followed": false
+                },
+                {
+                    "id": "IW6ZAAB8",
+                    "name": "ACV",
+                    "link": "/nghe-si/ACV",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+                    "spotlight": false,
+                    "follow": 5167,
+                    "playlistId": "60U6OOWD",
+                    "followed": false
+                },
+                {
+                    "id": "IW6WAA7W",
+                    "name": "APJ",
+                    "link": "/nghe-si/APJ",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/f/b/8/2fb8b6233098ad68487cfc7ea2adb9e7.jpg",
+                    "spotlight": false,
+                    "follow": 2995,
+                    "playlistId": "Z6BODZBW",
+                    "followed": false
+                },
+                {
+                    "id": "IW6W7AZD",
+                    "name": "Nhật Phong",
+                    "link": "/nghe-si/Nhat-Phong",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/b/e/9/a/be9af4aa954d8e7bb178a0861de0e01a.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/1/7/9/e179c57ec85bd29db29a89bb3c1c049d.jpg",
+                    "spotlight": false,
+                    "follow": 38813,
+                    "playlistId": "Z6BUIOZF",
+                    "oa_link": "/Nhat-Phong",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9A7ZD",
+                    "name": "Thanh Hưng",
+                    "link": "/nghe-si/Thanh-Hung-Idol",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/9/7/9/9/9799bf780a59a78b3ceafc297d138aac.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/7/4/7/e747f412594da44531a37b1ee8340ec0.jpg",
+                    "spotlight": false,
+                    "follow": 52462,
+                    "playlistId": "Z6BUII00",
+                    "oa_link": "/thanhhung",
+                    "followed": false
+                },
+                {
+                    "id": "IW6ZU880",
+                    "name": "G5RSquad",
+                    "link": "/nghe-si/G5RSquad",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/3/2/c/132c6b8869a6d3696abe5bf69d80b585.jpg",
+                    "spotlight": false,
+                    "follow": 33837,
+                    "playlistId": "Z6BU0U7O",
+                    "oa_link": "/G5RSquad",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZFA7",
+                    "name": "Minh Vương M4U",
+                    "link": "/nghe-si/Minh-Vuong-M4U",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/1/8142308a12a798886cc342e51b436fec_1511496189.jpg",
+                    "spotlight": false,
+                    "follow": 57727,
+                    "playlistId": "Z6BU0AFZ",
+                    "followed": false
+                },
+                {
+                    "id": "IW6ZUZI8",
+                    "name": "Quân A.P",
+                    "link": "/nghe-si/Quan-A-P",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/5/2/2/352273b40bdce3159d1c5ba0202cd194.jpg",
+                    "spotlight": false,
+                    "follow": 82841,
+                    "playlistId": "Z6BOECF8",
+                    "oa_link": "/Quan-A-P",
+                    "followed": false
+                }
+            ]
+        },
+        {
+            "genre": {
+                "id": "IWZ9Z08W",
+                "name": "Hàn Quốc",
+                "alias": "han-quoc",
+                "link": "/the-loai-nghe-si/Han-Quoc/IWZ9Z08W.html"
+            },
+            "items": [
+                {
+                    "id": "IWZA7DE0",
+                    "name": "BLACKPINK",
+                    "link": "/nghe-si/BLACKPINK",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/1/1/1/f1113df32e09c1c5c6fe7069b0107c13.jpg",
+                    "spotlight": false,
+                    "follow": 302369,
+                    "playlistId": "Z6BUIBIC",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9DB6E",
+                    "name": "BTS",
+                    "link": "/nghe-si/BTS",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/f/e/fe5df232cafa4c4e0f1a0294418e5660_1486908492.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/8/18e2999891374a475d0687ca9f989d83_1486908486.jpg",
+                    "spotlight": false,
+                    "follow": 464146,
+                    "playlistId": "Z6BUICIZ",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZWII",
+                    "name": "BIGBANG",
+                    "link": "/nghe-si/BIGBANG",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/0/a/0af56bf958611ab7320da88e99084d33_1467690507.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/a/ea507573ba1b7bfea6bbd715e4aa4c10_1481549701.jpg",
+                    "spotlight": false,
+                    "follow": 173005,
+                    "playlistId": "Z6BUID7D",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9Z6FO",
+                    "name": "T-ARA",
+                    "link": "/nghe-si/T-ARA",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/8/1/81347fa3a985981eb9ce3bd1b61be094_1438589885.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/3/d372eca7bc67d9bb0c5d2a60a63b82b5_1438589673.jpg",
+                    "spotlight": false,
+                    "follow": 82759,
+                    "playlistId": "Z6BUICO6",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZIU9",
+                    "name": "IU",
+                    "link": "/nghe-si/IU",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/d/d/4/f/dd4f115db598598285a169ab03051e57.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/9/d/d/e9dd0775e06083b4dd59b44b822a7b75.jpg",
+                    "spotlight": false,
+                    "follow": 71259,
+                    "playlistId": "Z6BUIC7D",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ96WU7",
+                    "name": "TAEYEON",
+                    "link": "/nghe-si/TAEYEON",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/3/2/32003ef3ac258b821c26019bb6fec559_1487591771.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/0/90552e810e360e6e9bdb321b0aa343cd_1487591903.jpg",
+                    "spotlight": false,
+                    "follow": 41026,
+                    "playlistId": "Z6BUIE98",
+                    "followed": false
+                },
+                {
+                    "id": "IWZA7ZZF",
+                    "name": "Punch",
+                    "link": "/nghe-si/Punch",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/a/b/7eab56dca436724e5e0eb6eb640b7d5b.jpg",
+                    "spotlight": false,
+                    "follow": 5948,
+                    "playlistId": "Z6BUI9DA",
+                    "followed": false
+                },
+                {
+                    "id": "IWZAEBE6",
+                    "name": "Bolbbalgan4",
+                    "link": "/nghe-si/Bolbbalgan4",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/2/b/2b5f80055937babc2a4eb0ab0ea7ec5a_1472916068.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/2/0/2/520251b15931042991e54bfc49cb91d7.jpg",
+                    "spotlight": false,
+                    "follow": 35895,
+                    "playlistId": "Z6BUIC09",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZOW6",
+                    "name": "Hong Jin Young",
+                    "link": "/nghe-si/Hong-Jin-Young",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/d/9/d9f74a4dcea8a4c9c70e477424ac5131_1413937741.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/7/376a000430a93052ded309db185c5abd_1285742264.jpg",
+                    "spotlight": false,
+                    "follow": 2386,
+                    "playlistId": "Z6BUIABI",
+                    "followed": false
+                },
+                {
+                    "id": "IWZAWB0B",
+                    "name": "Red Velvet",
+                    "link": "/nghe-si/Red-Velvet",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/1/e/9/3/1e9339407bbcc699d319c9fab4e25154.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/4/6/f/846f2f816d5689990d8e6b44ebbedfe7.jpg",
+                    "spotlight": false,
+                    "follow": 44648,
+                    "playlistId": "Z6BUIDAA",
+                    "followed": false
+                }
+            ]
+        },
+        {
+            "genre": {
+                "id": "IWZ9Z08O",
+                "name": "Âu Mỹ",
+                "alias": "au-my",
+                "link": "/the-loai-nghe-si/Au-My/IWZ9Z08O.html"
+            },
+            "items": [
+                {
+                    "id": "IWZA6CCW",
+                    "name": "Alan Walker",
+                    "link": "/nghe-si/Alan-Walker",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/5/4/54d479fb032e2dd0007a953be66903dd_1452770800.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/0/c0158a5d0afdbb8b3d177162b9328a7c_1452770729.jpg",
+                    "spotlight": false,
+                    "follow": 253244,
+                    "playlistId": "Z6BUI9AC",
+                    "followed": false
+                },
+                {
+                    "id": "IWZA7OIA",
+                    "name": "K-391",
+                    "link": "/nghe-si/K-391",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/e/1/e19a2cd73ce1e60cf682521045945216_1458805403.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/9/493e761d37d31c5cdef4281c0c0ef6d4_1458805399.jpg",
+                    "spotlight": false,
+                    "follow": 7540,
+                    "playlistId": "Z6BUICZE",
+                    "followed": false
+                },
+                {
+                    "id": "IWZFICE6",
+                    "name": "Marcus Layton",
+                    "link": "/nghe-si/Marcus-Layton",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/3/c/3/c3c3ef5e2e2c316b96014a84adcfd1f8.jpg",
+                    "spotlight": false,
+                    "follow": 26,
+                    "playlistId": "60U6WA7B",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZO9Z",
+                    "name": "Selena Gomez",
+                    "link": "/nghe-si/Selena-Gomez",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/6/7/6760c72e14b50aaa4e10d96c184b0228_1516949722.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/1/61b57d1673f3673f181ddc8827b23171_1499068141.jpg",
+                    "spotlight": false,
+                    "follow": 29590,
+                    "playlistId": "Z6BUIADO",
+                    "followed": false
+                },
+                {
+                    "id": "IWZD6F8W",
+                    "name": "DEAMN",
+                    "link": "/nghe-si/DEAMN",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/3/f/3fb2db6cccf4a23383383394b28b2b31_1516949588.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/a/2a9432384224546a75dfbb78679ff05a_1516949585.jpg",
+                    "spotlight": false,
+                    "follow": 34526,
+                    "playlistId": "Z6BUID98",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ97A9F",
+                    "name": "Sia",
+                    "link": "/nghe-si/Sia",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/1/3/13c62b2f066cd5adcd0f5abc30e89b28_1412699710.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/f/ef749514b7cbe210ef5286eb78ad96a0_1395036564.jpg",
+                    "spotlight": false,
+                    "follow": 15558,
+                    "playlistId": "Z6BUIEDI",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9F67Z",
+                    "name": "Martin Garrix",
+                    "link": "/nghe-si/Martin-Garrix",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/5/a/5a6a0cfa2f9a84a04b62637493ffe8f3_1476933353.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/a/5a6a0cfa2f9a84a04b62637493ffe8f3_1476933388.jpg",
+                    "spotlight": false,
+                    "follow": 33521,
+                    "playlistId": "Z6BUIB7A",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9Z9OE",
+                    "name": "Richard Clayderman",
+                    "link": "/nghe-si/Richard-Clayderman",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/b/7/b71c040f0055be1ab1ba24d87c60ee4e_1412074753.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1300094982.jpg",
+                    "spotlight": false,
+                    "follow": 3958,
+                    "playlistId": "Z6BUIBZU",
+                    "followed": false
+                },
+                {
+                    "id": "IWZA60W7",
+                    "name": "Sasha Sloan",
+                    "link": "/nghe-si/Sasha-Sloan",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/6/4694556591e032cec1f2534b7d1911ed_1508409802.jpg",
+                    "spotlight": false,
+                    "follow": 969,
+                    "playlistId": "Z6BUICBZ",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZU0A",
+                    "name": "Westlife",
+                    "link": "/nghe-si/Westlife",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/2/0/2093bda437d983675c4c0e2f0788ffc5_1411731400.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/0/e06d061a77a7bde916b8a91163029d41_1425461690.jpg",
+                    "spotlight": false,
+                    "follow": 15581,
+                    "playlistId": "Z6BUI9CC",
+                    "followed": false
+                }
+            ]
+        },
+        {
+            "genre": {
+                "id": "IWZ9Z08U",
+                "name": "Hoa Ngữ",
+                "alias": "hoa-ngu",
+                "link": "/the-loai-nghe-si/Hoa-Ngu/IWZ9Z08U.html"
+            },
+            "items": [
+                {
+                    "id": "IW6W8EE7",
+                    "name": "Âm Khuyết Thi Thính",
+                    "link": "/nghe-si/Am-Khuyet-Thi-Thinh",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/b/5/c/3b5cc536bc003d1bcc484a99e3b38f18.jpg",
+                    "spotlight": false,
+                    "follow": 11849,
+                    "playlistId": "Z6BU0DBZ",
+                    "followed": false
+                },
+                {
+                    "id": "IW6ZOEC7",
+                    "name": "Triệu Phương Tịnh",
+                    "link": "/nghe-si/Trieu-Phuong-Tinh",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png",
+                    "spotlight": false,
+                    "follow": 311,
+                    "playlistId": "Z6BOD68F",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZOFF",
+                    "name": "Đặng Tử Kỳ",
+                    "link": "/nghe-si/Dang-Tu-Ky",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/e/9/e971b8c05322952174f3ec33fc5ff0e7_1427741448.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/3/934fbd0b3618c3366af0d191a53fa55c_1427741670.jpg",
+                    "spotlight": false,
+                    "follow": 7139,
+                    "playlistId": "Z6BUIDFW",
+                    "followed": false
+                },
+                {
+                    "id": "IW6Z7EDE",
+                    "name": "A Nhũng",
+                    "link": "/nghe-si/A-Nhung",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/9/e/b/29ebb66b99eb83e51bf344a16c6461cd.jpg",
+                    "spotlight": false,
+                    "follow": 1598,
+                    "playlistId": "60U6WC99",
+                    "followed": false
+                },
+                {
+                    "id": "IW6WAWCD",
+                    "name": "Luân Tang",
+                    "link": "/nghe-si/Luan-Tang",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/6/a/d/b6ad96d6493fc03da82d08e420bcb9ff.jpg",
+                    "spotlight": false,
+                    "follow": 5933,
+                    "playlistId": "Z6BUIOUD",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9ZI6O",
+                    "name": "Tát Đỉnh Đỉnh",
+                    "link": "/nghe-si/Tat-Dinh-Dinh",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/e/4efdd2f969559e8b1c92e99f32ded48e_1291949850.jpg",
+                    "spotlight": false,
+                    "follow": 3228,
+                    "playlistId": "Z6BOFDUC",
+                    "followed": false
+                },
+                {
+                    "id": "IWZAOU0B",
+                    "name": "Trương Bích Thần",
+                    "link": "/nghe-si/Truong-Bich-Than",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/b/9b1edc630121046188eea337921bfe30_1412788698.jpg",
+                    "spotlight": false,
+                    "follow": 11227,
+                    "playlistId": "Z6BUIBD7",
+                    "followed": false
+                },
+                {
+                    "id": "IW6ZO8B8",
+                    "name": "Vương Thất Thất",
+                    "link": "/nghe-si/Vuong-That-That",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png",
+                    "spotlight": false,
+                    "follow": 1848,
+                    "playlistId": "Z6BUIC77",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ98W76",
+                    "name": "Uông Tô Lang",
+                    "link": "/nghe-si/Uong-To-Lang",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/0/b0bf4d665f7337a3de637e95a72dffe6_1403806555.jpg",
+                    "spotlight": false,
+                    "follow": 8871,
+                    "playlistId": "Z6BUIEZW",
+                    "followed": false
+                },
+                {
+                    "id": "IW6WAAUF",
+                    "name": "Tiêu Ức Tình",
+                    "link": "/nghe-si/Tieu-Uc-Tinh",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/1/1/6/7116219452f5f1933fe67b2b3e12ad58.jpg",
+                    "spotlight": false,
+                    "follow": 1918,
+                    "playlistId": "Z6BU086C",
+                    "followed": false
+                }
+            ]
+        },
+        {
+            "genre": {
+                "id": "IWZ9Z086",
+                "name": "Hòa Tấu",
+                "alias": "hoa-tau",
+                "link": "/the-loai-nghe-si/Hoa-Tau/IWZ9Z086.html"
+            },
+            "items": [
+                {
+                    "id": "IWZ97UE9",
+                    "name": "Nhạc Không Lời",
+                    "link": "/nghe-si/Nhac-Khong-Loi",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/3/8/38bab79531965cf17393d0c0d8fb9bb7_1411746616.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/7/f7207d810f150acf28322ac2368d75eb_1332587938.jpg",
+                    "spotlight": false,
+                    "follow": 59662,
+                    "playlistId": "Z6BOFCUE",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9Z0CZ",
+                    "name": "Kenny G",
+                    "link": "/nghe-si/Kenny-G",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/9/4/9406b46172fc27e74959e7e4cfbc87dd_1444647429.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/0/10a9c3c25a3acd90f0ce34831deb1900_1419907427.jpg",
+                    "spotlight": false,
+                    "follow": 4256,
+                    "playlistId": "Z6BOFWC6",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9EEE9",
+                    "name": "Jin Shi",
+                    "link": "/nghe-si/Jin-Shi",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png",
+                    "spotlight": false,
+                    "follow": 895,
+                    "playlistId": "Z6BUIAB8",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ9D09E",
+                    "name": "An Coong",
+                    "link": "/nghe-si/An-Coong",
+                    "cover": "https://photo-zmp3.zadn.vn/cover_artist/7/e/7e45fe7d1df1beeba71fee0078da9850_1513833190.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/0/702ae655398d8e9e3bd8b469ffb8dcec_1513833326.jpg",
+                    "spotlight": false,
+                    "follow": 5601,
+                    "playlistId": "Z6BOEFA9",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ970DC",
+                    "name": "Beethoven",
+                    "link": "/nghe-si/Beethoven",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/6/f/6f3131c7a2ec15b73e70a82447625fc3_1412906685.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1368947197.jpg",
+                    "spotlight": false,
+                    "follow": 6339,
+                    "playlistId": "Z6BU08AF",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ998FO",
+                    "name": "Francis Goya",
+                    "link": "/nghe-si/Francis-Goya",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/d/5/d51b04727a9b6459de091b1fbf905fce_1415673833.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/0/d0067aa5cc7db454272fb0c18998f64f_1344765235.jpg",
+                    "spotlight": false,
+                    "follow": 563,
+                    "playlistId": "Z6BOEI8D",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ96I8W",
+                    "name": "Kevin Kern",
+                    "link": "/nghe-si/Kevin-Kern",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/6/d6d4111378c41c7324c9d85886d6632d_1287707388.jpg",
+                    "spotlight": false,
+                    "follow": 391,
+                    "playlistId": "Z6BOEF7Z",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ98A0Z",
+                    "name": "Chen Xiao Ping",
+                    "link": "/nghe-si/Chen-Xiao-Ping",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png",
+                    "spotlight": false,
+                    "follow": 104,
+                    "playlistId": "Z6BOD6UF",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ97W9I",
+                    "name": "July",
+                    "link": "/nghe-si/July",
+                    "cover": "//static-zmp3.zadn.vn/dev/skins/zmp3-v5.2/images/default_cover.png",
+                    "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png",
+                    "spotlight": false,
+                    "follow": 1499,
+                    "playlistId": "Z6BODA9O",
+                    "followed": false
+                },
+                {
+                    "id": "IWZ96Z96",
+                    "name": "Yanni",
+                    "link": "/nghe-si/Yanni",
+                    "cover": "https://photo-zmp3.zadn.vn/cover3_artist/f/7/f725e75795015e9af9d2a0006176ecf1_1412123926.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/7/f725e75795015e9af9d2a0006176ecf1_1342772380.jpg",
+                    "spotlight": false,
+                    "follow": 1272,
+                    "playlistId": "Z6BU0I6F",
+                    "followed": false
+                }
+            ]
+        }
+    ],
+    "timestamp": 1606066968637
+}

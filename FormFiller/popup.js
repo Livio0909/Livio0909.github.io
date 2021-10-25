@@ -125,8 +125,13 @@ function fillFormFromLocalStorage() {
 							
 							console.log(choice.innerText)
 							if (question.answer.some(item => item.choice == choice.innerText)) {
-								
-								choice.click()
+								if (!choice.parentNode.parentNode.parentNode.classList.contains('isChecked')) {
+									choice.click()
+								}
+							} else {
+								if (choice.parentNode.parentNode.parentNode.classList.contains('isChecked')) {
+									choice.click()
+								}
 							}
 						})
 					}
